@@ -1,4 +1,4 @@
-### Hi Geeks 👋.! I am an young Developer,fast Learner from INDIA ...!
+### Hi Geeks 👋.! I am an young Developer and fast Learner from INDIA ...!
 
 <!--
 **piyush1102/piyush1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
