@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Any tech related stuff**
 
-- 📫 Connect with me  ** piyush-singh-645388193 **
+- 📫 Connect with me  **piyush-singh-645388193**
 
 - ⚡ Fun fact **30% of IT professionals hide their career from friends and family to get out of giving free tech support.**
 
