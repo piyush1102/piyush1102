@@ -14,6 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/impiyush71" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQYidVLNCtjTP712BKFgcgF8QM9YruxMsn-lTC_BsqYRY3tRmYrWQSk8maVDJQOoJQi8&usqp=CAU" alt="piyush1102" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/piyush-singh-645388193" target="blank"><img align="center" src="http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="piyush1102" height="30" width="40" /></a>
 </p>
 
 
