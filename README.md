@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/impiyush71" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" alt="piyush1102" height="30" width="40" /></a>
+<a href="https://x.com/impiyush71" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" alt="piyush1102" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/piyush-singh-645388193" target="blank"><img align="center" src="http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="piyush1102" height="30" width="40" /></a>
 </p>
 
